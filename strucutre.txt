@@ -9,7 +9,7 @@ supply-chain-tracker/
 │           └── SupplyChain.json   ← full ABI (with getHistory, enums)
 ├── cache/                          ← Hardhat cache
 ├── hardhat.config.js
-├── .env                            ← your RPC URLs, chain IDs, and PRIVATE_KEY
+├── .env.example                            ← your RPC URLs, chain IDs, and PRIVATE_KEY
 ├── package.json
 ├── tsconfig.json (if using TS)
 └── frontend/
